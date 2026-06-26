@@ -28,7 +28,7 @@ weapons: [
             scaleKeepVelocity: true
             homingPower: 0.1
             homingRange: 16
-            damage: 10
+            damage: 12
         }
     }
     {

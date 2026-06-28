@@ -12,6 +12,8 @@ consumes: {
 constructTime: 600  
 upgrades: [
     [dagger, lance]
+    [flare, dawn]
+    [risso, tidal]
 ]
 requirements: [
   lead/160

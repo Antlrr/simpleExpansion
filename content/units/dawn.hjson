@@ -4,7 +4,7 @@ health: 400
 armor: 2
 lowAltitude: true
 engineOffset: 6
-hitsize: 16
+hitSize: 12
 weapons: [
     {
         name: dawn-weapon

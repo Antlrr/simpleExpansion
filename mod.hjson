@@ -11,6 +11,7 @@ version: 0.1
 minGameVersion: 154
 contentOrder: [
     sifter
+    silicon-smelter
     silver-refinery
     electrum-smelter
 ]

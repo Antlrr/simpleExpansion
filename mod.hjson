@@ -9,3 +9,9 @@ a mod that adds a [accent]small [white]and [sky]simple [white]expansion to the v
 
 version: 0.1
 minGameVersion: 154
+contentOrder: [
+    sifter
+    silicon-smelter
+    silver-refinery
+    electrum-smelter
+]
